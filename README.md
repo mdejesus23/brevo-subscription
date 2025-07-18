@@ -17,7 +17,7 @@ This Cloudflare Worker handles newsletter subscriptions by securely forwarding e
 
 - [Cloudflare Workers](https://developers.cloudflare.com/workers/)
 - [Brevo API v3](https://developers.brevo.com/docs)
-- JavaScript (ES Modules)
+- Typescript
 
 ---
 
